@@ -74,7 +74,7 @@ public class LoginForm extends JFrame {
          }
 
              private boolean isValidLogin(String email, String password) {        
-            return email.equals("lakshit@presentation.com")&& password.equals("presentation1");    
+            return email.equals("lakshitkhurana@presentation.com")&& password.equals("presentation7856");    
           }    
           public static void main(String[] args) {        
          SwingUtilities.invokeLater(LoginForm::new);
